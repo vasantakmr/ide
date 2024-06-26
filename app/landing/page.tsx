@@ -18,7 +18,7 @@ export default function LandingPage() {
       <HeroHighlightDemo />
       <GotPlaced />
       <VideoDemo />
-      <MasterClassFor/>
+      <MasterClassFor />
       {/* <Testimonials /> */}
       <ModulesOverview />
       <Mentor />
